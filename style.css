@@ -26,7 +26,7 @@ nav ul li{
   transition: 0.4s all;
 }
 nav ul li:hover{
-  background-color:#ffffff;
+  background-color:#09000;
 }
 nav ul li a{
   text-decoration: none;
