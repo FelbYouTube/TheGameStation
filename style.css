@@ -26,11 +26,11 @@ nav ul li{
   transition: 0.4s all;
 }
 nav ul li:hover{
-  background-color:#090000;
+  background-color:#ffffff;
 }
 nav ul li a{
   text-decoration: none;
-  color: #090000;
+  color: #ffffff;
   padding: 30px;
 }
 nav ul li a:hover{
